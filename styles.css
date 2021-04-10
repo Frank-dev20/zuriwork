@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap');
 
-/** variables */
 :root {
     --primary-bg: #304353;
     --secondary-bg: #f0f0f0;
@@ -9,8 +8,7 @@
     --accent: #E44C65;
 }
 
-/** reset */
-*,
+
 *::before,
 *::after {
     margin: 0;
